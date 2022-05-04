@@ -1,6 +1,6 @@
 {
   "component": {
-    "com.example.IPCComponent": {
+    "com.example.CSV2OPCUAMapper": {
       "author": "Eric",
       "version": "NEXT_PATCH",
       "build": {
